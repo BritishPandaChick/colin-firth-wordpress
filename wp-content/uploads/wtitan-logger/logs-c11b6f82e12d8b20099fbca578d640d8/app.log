@@ -2,3 +2,5 @@
 19-12-2023 16:07:26.1703002046.9298 [::1][6581bf][info] Plugin starts activation [START].
 																	-Plugin Version in DB: 0
 																	-Current Plugin Version: 7.3.5
+24-03-2024 01:02:31.1711242151.0239 [::1][65ff7b][info] Plugin starts deactivate [START].
+24-03-2024 01:02:31.1711242151.0239 [::1][65ff7b][info] Plugin has been deactivated [END]!
